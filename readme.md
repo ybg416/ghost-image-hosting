@@ -1,3 +1,1 @@
-# Ghost Blog CDN
-
-
+# ghost-image-hosting
